@@ -96,7 +96,7 @@ class Stack
 
 
 
-public class TestFile extends JFrame
+public class Stack_operation extends JFrame
 
 {
 
@@ -172,7 +172,7 @@ public class TestFile extends JFrame
 
  {
 
- String val= JOptionPane.showInputDialog("Please enter word : ");
+ String val= JOptionPane.showInputDialog("Please enter word or string: ");
 
  S.push(val);
 
